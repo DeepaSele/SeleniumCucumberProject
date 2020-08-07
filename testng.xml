@@ -1,0 +1,10 @@
+<!--  -->
+<!-- Data providers -->
+<suite name="CucumberProject">
+      
+    <test  verbose="2" name="CucumberLogintest">
+    <classes>
+      <class name="runner.Loginsuite_02_WithExamples"/>
+    </classes>
+  </test>    <!-- Default test -->
+</suite> 
