@@ -60,6 +60,7 @@ public void launchbrowser() {
 	Assert.assertTrue(Signin, "Signin Failed");
 		
 	}
+//Below method will use for DataTable using List Object
 //@Then("^user enters username and password$")
 //    public void userenter_nameandpassword(DataTable credentials) {
 //	List<List<String>> data = credentials.raw();
